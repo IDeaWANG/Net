@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="servlet-api">
+    <archive path="/Users/wangbowangbo/IdeaProjects/apache-tomcat-7.0.93/lib/servlet-api.jar" />
+  </library>
+</eclipse-userlibraries>
+
